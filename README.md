@@ -1,4 +1,3 @@
-[this subtext](subpro/subtext.md)
 # List of Configs:
 **P.S:** All configs except scripts editted by me. All configs here can be used by any ze server. 
 
@@ -19,8 +18,6 @@
 **Funny Runner (Stripper/Vscripts)**
 
 # Links to contact me
-Steam : https://steamcommunity.com/id/PnZombieEscape
+[Steam](https://steamcommunity.com/id/PnMaybeNotPn)
 
 Discord : Pn#5109
-
-YouTube : https://www.youtube.com/channel/UCvqeQqeHLD7qpW18rrlyFug
