@@ -1,4 +1,4 @@
-# List of strippers:
+# List of Configs:
 **P.S:** All configs except scripts editted by me. All configs here can be used by any ze server. 
 
 **Avalanche Reboot (Stripper/Entwatch/BossHP)**
