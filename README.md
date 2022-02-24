@@ -1,3 +1,4 @@
+[this subtext](subpro/subtext.md)
 # List of Configs:
 **P.S:** All configs except scripts editted by me. All configs here can be used by any ze server. 
 
@@ -23,4 +24,3 @@ Steam : https://steamcommunity.com/id/PnZombieEscape
 Discord : Pn#5109
 
 YouTube : https://www.youtube.com/channel/UCvqeQqeHLD7qpW18rrlyFug
-[a link](https://github.com/user/repo/blob/branch/other_file.md)
