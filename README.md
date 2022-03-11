@@ -17,7 +17,11 @@
 
 **Funny Runner (Stripper/Vscripts)**
 
-# Links to contact me
-[Steam](https://steamcommunity.com/id/PnMaybeNotPn)
+# Contract with me: 
+[![Support][support-badge]][support-link] [![YouTube][youtube-badge]][youtube-link]
 
-Discord : Pn#5109
+[support-badge]: https://img.shields.io/badge/-Steam-blueviolet
+[support-link]: https://steamcommunity.com/id/PnSource/
+
+[youtube-badge]: https://img.shields.io/badge/-YouTube-red
+[youtube-link]: https://www.youtube.com/channel/UCvqeQqeHLD7qpW18rrlyFug
